@@ -16,6 +16,9 @@ def isPalindrome(s):
 s = "malayalam"
 ans = isPalindrome(s) 
 
+s = "data"
+ans = isPalindrome(s) 
+
 if ans == 1: 
 	print("Yes") 
 else: 
