@@ -19,6 +19,9 @@ ans = isPalindrome(s)
 s = "data"
 ans = isPalindrome(s) 
 
+s = "dad"
+ans = isPalindrome(s)
+
 if ans == 1: 
 	print("Yes") 
 else: 
